@@ -28,15 +28,20 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead.
 
-1. What is the DOM?
+1. What is the DOM ?
+  DOM stands for Document Object Model.It is a programming interface, or layer that sits between the HTML and the display.It represents the page so that programs(like JS) can change the document structure, style, and content.
 
-2. What is an event?
+2. What is an event ?
+  In the context of JS, an event is something that occurs when the user or the browser interacts with the webpage. 
 
-3. What is an event listener?
+3. What is an event listener ?
+  An event listener is piece of code that can detect, and act upon an event.Event listeners allow for web pages and JS to be interactive in a more robust way than with pure CSS.
 
-4. Why would we convert a NodeList into an Array?
+4. Why would we convert a NodeList into an Array ?
+  By converting a NodeList into an array you can now manipulate the array with the power of JS.Multiplying the flexibility and versatility of the list.
 
-5. What is a component?
+5. What is a component ?
+  A component is a piece of code that can be called on multiple times in a program.They can be used to optimize complicated programs and can drastically reduce lines of code when implemented properly. 
 
 ### Git Set up
 
@@ -49,13 +54,13 @@ Edit this document to include your answers after each question. Make sure to lea
 
 Your finished project must include all of the following requirements:
 
-* [ ] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
+* [x] Look through the HTML code and familiarize yourself with the different sections. Some of them already exist, but some need to be filled in. DO NOT add any code to the HTML file itself.
 
-* [ ] Following the instructions in the `Header/index.js` file, create the Header component.
+* [x] Following the instructions in the `Header/index.js` file, create the Header component.
 
-* [ ] Following the instructions in the `Tabs/index.js` file, create individual Tabs components.
+* [x] Following the instructions in the `Tabs/index.js` file, create individual Tabs components.
 
-* [ ] Following the instructions in the `Cards/index.js` file, create individual Cards components.
+* [x] Following the instructions in the `Cards/index.js` file, create individual Cards components.
 
 ## Stretch Problems
 
